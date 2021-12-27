@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ce7615ff-dc91-4f01-9e6c-578b3eb2fa03": {
+      "ProjectGuid": "ce7615ff-dc91-4f01-9e6c-578b3eb2fa03",
+      "DisplayName": "LabServ",
+      "ColorIndex": 0
+    },
+    "361edd54-1adf-44dc-bfe5-21449e858df7": {
+      "ProjectGuid": "361edd54-1adf-44dc-bfe5-21449e858df7",
+      "DisplayName": "LabClient",
+      "ColorIndex": 1
+    },
+    "2fb2ce72-b7c3-4dc7-84ae-7ea3005fd336": {
+      "ProjectGuid": "2fb2ce72-b7c3-4dc7-84ae-7ea3005fd336",
+      "DisplayName": "TestLab",
+      "ColorIndex": 2
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Прочие файлы",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 3
+}
