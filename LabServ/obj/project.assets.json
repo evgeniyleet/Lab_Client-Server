@@ -203,11 +203,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\evgeniyleet\\source\\repos\\LabServ\\LabServ\\LabServ.csproj",
+      "projectUniqueName": "C:\\Users\\evgeniyleet\\source\\repos\\Lab_Client-Server\\LabServ\\LabServ.csproj",
       "projectName": "LabServ",
-      "projectPath": "C:\\Users\\evgeniyleet\\source\\repos\\LabServ\\LabServ\\LabServ.csproj",
+      "projectPath": "C:\\Users\\evgeniyleet\\source\\repos\\Lab_Client-Server\\LabServ\\LabServ.csproj",
       "packagesPath": "C:\\Users\\evgeniyleet\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\evgeniyleet\\source\\repos\\LabServ\\LabServ\\obj\\",
+      "outputPath": "C:\\Users\\evgeniyleet\\source\\repos\\Lab_Client-Server\\LabServ\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -228,8 +228,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\evgeniyleet\\source\\repos\\LabServ\\LabClient\\LabClient.csproj": {
-              "projectPath": "C:\\Users\\evgeniyleet\\source\\repos\\LabServ\\LabClient\\LabClient.csproj"
+            "C:\\Users\\evgeniyleet\\source\\repos\\Lab_Client-Server\\LabClient\\LabClient.csproj": {
+              "projectPath": "C:\\Users\\evgeniyleet\\source\\repos\\Lab_Client-Server\\LabClient\\LabClient.csproj"
             },
             "C:\\Users\\evgeniyleet\\source\\repos\\TestLab\\TestLab\\TestLab.csproj": {
               "projectPath": "C:\\Users\\evgeniyleet\\source\\repos\\TestLab\\TestLab\\TestLab.csproj"

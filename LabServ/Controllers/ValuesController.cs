@@ -16,10 +16,25 @@ namespace LabServ.Controllers
         private readonly Serializer serializer;
         private static string tempData;
         private static string tempData2;
+
         public ValuesController()
         {
             serializer = new Serializer();
         }
+        //[Route("GetSum")]
+        //[HttpPost]
+        //public ActionResult Sum(string a, string b)
+        //{
+        //    //GetSum?a=1&b=2
+        //    /*using var stream = new StreamReader(Request.Body);
+        //    var body = stream.ReadToEndAsync().Result;
+        //    var test = serializer.DeserializeJson<Test1>(body);
+        //    var sum = test.A + test.B;*/
+        //    var sum1 = int.Parse(a) + int.Parse(b);
+        //    return Content(sum1.ToString());
+
+        //}
+
         [Route("Ping")]
         [HttpGet]
         public IActionResult Ping()

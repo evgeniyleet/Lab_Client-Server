@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zN2BiUYjschcTkwnVFNC4F4leAhVmi1UhkqzhufM4zynxgVfYjUGwInvFX3S+D82OonawYnb5igHmWf1mMBnNA==",
+  "dgSpecHash": "W7c9V3k9gEtbSkDHf2kR1NzviRwqo10UohqNNkKVFoVL75ItcwUYQJSLhWluCf9aUKFZdw+hCKDR1wkbcG29+w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\evgeniyleet\\source\\repos\\LabServ\\LabServ\\LabServ.csproj",
+  "projectFilePath": "C:\\Users\\evgeniyleet\\source\\repos\\Lab_Client-Server\\LabServ\\LabServ.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\evgeniyleet\\.nuget\\packages\\microsoft.aspnet.mvc\\5.2.7\\microsoft.aspnet.mvc.5.2.7.nupkg.sha512",
     "C:\\Users\\evgeniyleet\\.nuget\\packages\\microsoft.aspnet.razor\\3.2.7\\microsoft.aspnet.razor.3.2.7.nupkg.sha512",
